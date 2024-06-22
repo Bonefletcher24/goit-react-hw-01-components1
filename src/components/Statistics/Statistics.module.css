@@ -1,5 +1,5 @@
 .statistics {
-    width: 450px;
+    width: 40%;
     margin: 40px auto;
     background-color: #fff;
     text-align: center;
@@ -14,9 +14,11 @@
     text-transform: uppercase;
     color: #363636;
     background-color: #c9c9c9;
+    display: flex;
+    justify-content: center;
   }
   
-  .stat-list {
+  .statList {
     display: flex;
     flex-wrap: wrap;
   }
