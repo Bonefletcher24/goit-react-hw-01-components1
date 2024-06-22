@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1e0700a2-5183-4291-85cc-2065a036a683",
+      "type": "Invoice",
+      "amount": "125.00",
+      "currency": "USD"
+    },
+    {
+      "id": "a30f821b-4d25-4ff0-abdd-e340b3f0dd2b",
+      "type": "Payment",
+      "amount": "862",
+      "currency": "AUD"
+    },
+    {
+      "id": "44dca67a-8e5a-4798-bf8e-b15efd4e1abd",
+      "type": "Withdrawal",
+      "amount": "85",
+      "currency": "USD"
+    },
+    {
+      "id": "ea8ed3dc-2b68-4a53-905a-53ecb0adef33",
+      "type": "Deposit",
+      "amount": "103",
+      "currency": "BWP"
+    },
+    {
+      "id": "ea76146a-0b00-4b80-bc02-a8c822176712",
+      "type": "Withdrawal",
+      "amount": "371.43",
+      "currency": "MUR"
+    }
+]
